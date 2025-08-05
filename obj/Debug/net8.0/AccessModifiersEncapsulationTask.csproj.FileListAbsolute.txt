@@ -1,0 +1,15 @@
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccessModifiersEncapsulationTask\bin\Debug\net8.0\AccessModifiersEncapsulationTask.exe
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccessModifiersEncapsulationTask\bin\Debug\net8.0\AccessModifiersEncapsulationTask.deps.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccessModifiersEncapsulationTask\bin\Debug\net8.0\AccessModifiersEncapsulationTask.runtimeconfig.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccessModifiersEncapsulationTask\bin\Debug\net8.0\AccessModifiersEncapsulationTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccessModifiersEncapsulationTask\bin\Debug\net8.0\AccessModifiersEncapsulationTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccessModifiersEncapsulationTask\obj\Debug\net8.0\AccessModifiersEncapsulationTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccessModifiersEncapsulationTask\obj\Debug\net8.0\AccessModifiersEncapsulationTask.AssemblyInfoInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccessModifiersEncapsulationTask\obj\Debug\net8.0\AccessModifiersEncapsulationTask.AssemblyInfo.cs
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccessModifiersEncapsulationTask\obj\Debug\net8.0\AccessModifiersEncapsulationTask.csproj.CoreCompileInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccessModifiersEncapsulationTask\obj\Debug\net8.0\AccessModifiersEncapsulationTask.sourcelink.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccessModifiersEncapsulationTask\obj\Debug\net8.0\AccessModifiersEncapsulationTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccessModifiersEncapsulationTask\obj\Debug\net8.0\refint\AccessModifiersEncapsulationTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccessModifiersEncapsulationTask\obj\Debug\net8.0\AccessModifiersEncapsulationTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccessModifiersEncapsulationTask\obj\Debug\net8.0\AccessModifiersEncapsulationTask.genruntimeconfig.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccessModifiersEncapsulationTask\obj\Debug\net8.0\ref\AccessModifiersEncapsulationTask.dll
